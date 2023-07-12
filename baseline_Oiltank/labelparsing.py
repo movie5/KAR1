@@ -1,7 +1,4 @@
-#%%
 import json
-import os
-currentpath = os.getcwd()
 with open("OBJ05166_PS3_K3A_NIA0338.json", 'r') as f:
     data = json.load(f)
 
