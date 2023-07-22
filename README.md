@@ -1,3 +1,7 @@
+## links
+
+[Yolov8](https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=bpF9-vS_DAaf)
+
 # Jupyter Book template for AIFactory Team KAR1
 
 가짜 연구소에서 Jupyter Book page에 대한 template를 사용했습니다.
