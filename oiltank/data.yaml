@@ -1,0 +1,8 @@
+
+path: C://Users/laboratory/repository/oiltank/oiltank_dataset
+train: train_images
+val: val_images
+test: test_images
+
+nc: 1
+names: ['oil tank']
